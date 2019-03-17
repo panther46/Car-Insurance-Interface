@@ -145,7 +145,7 @@ span.resultado {
 
 .gran-total {
   text-align: center;
-  color:white;
+  color:red;
   padding: .5rem;
   border: 1px solid #6D29CE;
   background-color: #6D29CE;
